@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"hello i am meghana"<<endl;
+    cout<<"HUMANITY IS THE BEST RELIGION"<<endl;
 
 }
