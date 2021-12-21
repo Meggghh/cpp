@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"HUMANITY IS THE BEST RELIGION"<<endl;
+    cout<<"NOBODY REALLLY CARES!"<<endl;
+    cout<<"Because when you start caring they will walk over you"<<endl;
 
 }
